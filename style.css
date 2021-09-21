@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(160, 99, 99);
+    color: rgb(212, 145, 156);
+    font-size: 25px;
+
+}
+#id{
+    color: #6495ed;
+}
+
+h1 {
+    color: coral;
+}
+.white-font{
+    color: white;
+}
